@@ -209,11 +209,15 @@ header nav a {
 *
 *=========================================*/
 footer {
-  background: #333;
+  background: #a5aeb8;
   padding: 10px 30px;
   text-align: right;
 }
 
 footer img {
-  width: 40px;
+  width: 45px;
+}
+
+.foo-footer{
+  text-align: left;
 }
